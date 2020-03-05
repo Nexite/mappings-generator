@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.fabricmc:1.15-named:1.15-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/fabricmc/1.15-named/1.15-SNAPSHOT/1.15-named-1.15-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/fabricmc/1.15-named/1.15-SNAPSHOT/1.15-named-1.15-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/fabricmc/1.15-named/1.15-SNAPSHOT/1.15-named-1.15-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
