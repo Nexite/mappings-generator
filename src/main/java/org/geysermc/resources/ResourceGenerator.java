@@ -99,6 +99,7 @@ public class ResourceGenerator {
             object.addProperty("bedrock_identifier", blockEntry.getBedrockIdentifier());
             if (blockEntry.getBedrockStates() != null)
                 object.add("bedrock_states", blockEntry.getBedrockStates());
+            object.addProperty("hardness", blockEntry.getBlockHardness());
         } else {
             object.addProperty("bedrock_identifier", identifier.split("\\[")[0]);
         }

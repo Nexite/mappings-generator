@@ -16,4 +16,7 @@ public class BlockEntry {
 
     @SerializedName("bedrock_states")
     private JsonElement bedrockStates;
+
+    @SerializedName("hardness")
+    private float blockHardness;
 }
